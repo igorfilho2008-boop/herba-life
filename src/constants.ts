@@ -6,28 +6,28 @@ export const PRODUCTS = [
     name: "Shake Herbalife",
     description: "Sua refeição completa em um copo, cremosa, nutritiva, pronta para tomar agora.",
     price: "a partir de R$ 22",
-    image: "/src/assets/images/herbalife_hero_shake_1779207383044.png",
+    image: "/assets/images/herbalife_hero_shake_1779207383044.png",
   },
   {
     id: "detox-5",
     name: "Detox 5 Dias",
     description: "Limpeza profunda que remove o inchaço, ajuda na digestão, traz leveza real para o corpo.",
     price: "R$ 65",
-    image: "/src/assets/images/herbalife_detox_kit_1779207474627.png",
+    image: "/assets/images/herbalife_detox_kit_1779207474627.png",
   },
   {
     id: "detox-turbo",
     name: "Detox 5 Dias TURBO",
     description: "Fórmula intensiva focada em queima calórica, energia máxima e redução de medidas visíveis.",
     price: "R$ 65",
-    image: "/src/assets/images/herbalife_detox_kit_1779207474627.png",
+    image: "/assets/images/herbalife_detox_kit_1779207474627.png",
   },
   {
     id: "sunset",
     name: "Sunset Drink",
     description: "Hidratação inteligente que acelera o metabolismo e melhora a qualidade do seu descanso.",
     price: "consulte no zap",
-    image: "/src/assets/images/herbalife_sunset_drink_1779207490119.png",
+    image: "/assets/images/herbalife_sunset_drink_1779207490119.png",
   },
 ];
 
