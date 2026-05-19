@@ -1,0 +1,6 @@
+{
+  "name": "Espaço Herbalife Hangar Business",
+  "description": "Vida saudável e nutrição premium no Hangar Business Park. Shakes, detox e bebidas funcionais Herbalife em Salvador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
